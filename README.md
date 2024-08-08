@@ -44,7 +44,7 @@ THE OUTPUT
 
 
 
-# Rock, Paper & scissors
+# Rock, Paper & Scissors
 
 THE OUTPUT 
 
