@@ -34,8 +34,25 @@ THE OUTPUT
 # Number guessing game
 
 
-
-
 THE OUTPUT 
 
 ![image](https://github.com/user-attachments/assets/1842291d-5728-4391-ac57-542113e48f0f)
+
+
+
+
+
+
+
+# Rock, Paper & scissors
+
+THE OUTPUT 
+
+![image](https://github.com/user-attachments/assets/99abc195-90ed-4d5a-9de5-808c94320a05)
+
+
+
+
+
+
+
