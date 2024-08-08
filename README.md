@@ -1,5 +1,5 @@
-# Python-Projects
-All the Practices Projects 
+# Python-Projects (All the Practices Projects )
+
 
 ## Quiz Game
 
@@ -27,3 +27,15 @@ THE OUTPUT
 ![image](https://github.com/user-attachments/assets/1630b90e-f3a9-4e51-8314-6853bd8133e0)
 
 ![image](https://github.com/user-attachments/assets/3ae0c84d-e080-4522-abaa-23cf78eb78e7)
+
+
+
+
+# Number guessing game
+
+
+
+
+THE OUTPUT 
+
+![image](https://github.com/user-attachments/assets/1842291d-5728-4391-ac57-542113e48f0f)
