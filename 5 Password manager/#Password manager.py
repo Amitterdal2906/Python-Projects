@@ -21,14 +21,14 @@ key = load_key()
 fer = Fernet(key)
 
 
-def view():
+def view(): 
     with open('passwords.txt', 'r') as f:
         for line in f.readlines():
             data = line.rstrip()
             user, passw = data.split("|")
             print("User:", user, "| Password:",
                   fer.decrypt(passw.encode()).decode())
-
+    
 
 def add():
     name = input('Account Name: ')
