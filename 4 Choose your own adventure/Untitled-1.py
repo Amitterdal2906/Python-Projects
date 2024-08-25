@@ -1,6 +1,7 @@
 # Choose your own adventure
 
-
+name = input("Type your name: ")
+print("Welcome", name, "to this adventure!")
 
 
 answer = input(
