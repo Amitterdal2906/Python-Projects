@@ -17,8 +17,7 @@ def load_key():
     return key
 
 
-key = load_key()
-fer = Fernet(key)
+
 
 
 def view(): 
